@@ -13,6 +13,8 @@ A WebSockets application demo.
 
 ### Get it running on your laptop :computer:
 
+> **git clone git@github.com:bravin-onwonga/hotpotato-game.git**
+
 > **npm install**
 
 > **node server.js**
